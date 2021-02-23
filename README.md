@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hi there, I'm upload 👋
+<!--STARTS_HERE_QUOTE_README-->
+<i>Passionate about computer science.</i>
 
-<!--
-**upload-lab/upload-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :octocat: Github Statistics
+<p align="left">
+<img  src="https://github-readme-stats.vercel.app/api?username=upload-lab&show_icons=true&theme=radical" alt="upload-lab" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upload-lab&layout=compact&hide=html&theme=radical" alt="upload-lab"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
+<a href="https://dev.to/uploadlab" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="uploadlab" /></a>
