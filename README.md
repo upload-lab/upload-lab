@@ -3,7 +3,5 @@
 <i>Passionate about computer science.</i>
 
 ### :octocat: Github Statistics
-<p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=upload-lab&show_icons=true&theme=radical" alt="upload-lab" width="480" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upload-lab&layout=compact&hide=html&theme=radical" alt="upload-lab"/>
-</p>
+<img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vazity1337&layout=compact&hide_border=true&theme=dark" /><br>
+<img align="Left" alt="Vazity's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vazity1337&show_icons=true&hide_border=true&theme=dark" />
