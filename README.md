@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sierra</h1>
 <h3 align="center">A passionate about computer science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thatsblghn&label=Profile%20views&color=0e75b6&style=flat" alt="thatsblghn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thatsblghn" alt="thatsblghn" /></a> </p>
-
 - 🔭 I’m currently working on [LIFE](https://github.com/sierrareal/LIFE)
 
 - 💬 Ask me about **Sierra#3596**
