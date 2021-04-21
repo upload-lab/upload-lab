@@ -1,4 +1,4 @@
-Hi 👋, I'm Sierra
+- Hi 👋, I'm Sierra
 
 - 🔭 I’m currently working on [LIFE](https://github.com/sierrareal/LIFE)
 
