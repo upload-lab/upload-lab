@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Sierra</h1>
-<h3 align="center">A passionate about computer science.</h3>
+<h3>A passionate about computer science.</h3>
 
 - 🔭 I’m currently working on [LIFE](https://github.com/sierrareal/LIFE)
 
