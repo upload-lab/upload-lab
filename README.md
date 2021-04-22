@@ -1,4 +1,4 @@
- <p> I'm Sierra</p>
+ <h2>I'm Sierra</h2>
 
 - 🔭 I’m currently working on [LIFE](https://github.com/sierrareal/LIFE)
 
