@@ -1,4 +1,3 @@
-- about me
 
 - 💬 Ask me about **Sierra#3596**
 
