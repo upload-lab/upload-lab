@@ -1,7 +1,5 @@
  <h2>I'm Sierra</h2>
 
-- 🔭 I’m currently working on [?](https://github.com/Sierra1337/LIFE)
-
 - 💬 Ask me about **Sierra#3596**
 
 - 📫 How to reach me **support@sierra.wtf**
