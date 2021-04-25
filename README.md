@@ -1,4 +1,3 @@
- <h2>I'm Sierra</h2>
 
 - 💬 Ask me about **Sierra#3596**
 
