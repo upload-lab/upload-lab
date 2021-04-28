@@ -1,7 +1,7 @@
 
-- 💬 Ask me about **Sierra#3596**
+- 💬 Ask me about **upload#7001**
 
-- 📫 How to reach me **support@sierra.wtf**
+- 📫 How to reach me **hi@upload.dev**
 
 
 <h3 align="left">Languages and Tools:</h3>
