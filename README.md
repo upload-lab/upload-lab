@@ -1,6 +1,6 @@
-- 💬 Ask me about **upload#7001**
+<h4 align="left">- 💬 Ask me about **upload#7001**</h4>
 
-- 📫 How to reach me **hi@upload.dev**
+<h4 align="left">- 📫 How to reach me **hi@upload.dev**</h4>
 
 
 <h4 align="left">Languages and Tools:</h4>
