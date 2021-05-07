@@ -1,6 +1,6 @@
 - 💬 Ask me about **upload#7001**
 
-- 📫 How to reach me **hi@upload.dev**
+- 📫 How to reach me **hi@thatsblghn.me**
 
 
 <h4 align="left">Languages and Tools:</h4>
