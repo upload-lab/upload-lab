@@ -1,7 +1,5 @@
 <h2 align="center">upload#7001</h2>
 <h4 align="center">full-stack developer.</h4>
-<h4 align="center"></h4>
-<h4 align="center">for contact</h4>
 
 
 <h4>Languages:</h4>
