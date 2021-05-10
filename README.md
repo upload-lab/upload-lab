@@ -1,4 +1,4 @@
-- 💬 Ask me about **upload#7001**
+- 💬 Ask me about **[upload#7001] (https://discord.com/users/814511397161271357)**
 
 - 📫 How to reach me **uploadlab@hotmail.com**
 
