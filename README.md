@@ -1,5 +1,3 @@
-- 🔭 I’m currently working on [Upper](https://github.com/UpperProject/Upper)
-
 - 💬 Ask me about **@thatsblghn**
 
 - 📫 How to reach me **@thatsblghn2336**
