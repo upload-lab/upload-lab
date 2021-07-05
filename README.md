@@ -1,3 +1,3 @@
 #### for contact
 
-- Discord: [thatsblghn#1000](https://discord.com/users/853238939926396978)
+- Discord: [thatsblghn#5000](https://discord.com/users/853238939926396978)
